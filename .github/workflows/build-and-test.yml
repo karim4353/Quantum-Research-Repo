@@ -21,6 +21,6 @@ jobs:
         run: |
           python python/src/cli.py
           python python/src/bench/run_bench.py --sim
-      - name: Build C++ stub
+      #- name: Build C++ stub
         # run: |
         #   mkdir -p compiler/build && cd compiler/build && cmake .. && make || true
