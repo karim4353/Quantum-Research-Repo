@@ -1,0 +1,60 @@
+{
+  "ops": [
+    {
+      "op": "matmul",
+      "id": 0,
+      "inputs": [
+        null
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 1,
+      "inputs": [
+        0
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 2,
+      "inputs": [
+        1
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 3,
+      "inputs": [
+        2
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 4,
+      "inputs": [
+        3
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 5,
+      "inputs": [
+        4
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 6,
+      "inputs": [
+        5
+      ]
+    },
+    {
+      "op": "matmul",
+      "id": 7,
+      "inputs": [
+        6
+      ]
+    }
+  ]
+}
